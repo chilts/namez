@@ -3,13 +3,21 @@
   "version": "0.2.0",
   "description": "A name generator, for projects, confirmation codes, or funsies!",
   "main": "index.js",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  },
+  "homepage": "https://github.com/chilts/namez#readme",
+  "bugs": {
+    "url": "https://github.com/chilts/namez/issues"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chilts/namez.git"
   },
+  "author": "Andrew Chilton <andychilton@gmail.com>",
   "keywords": [
     "random",
     "name",
@@ -18,10 +26,5 @@
     "code",
     "name"
   ],
-  "author": "Andrew Chilton <andychilton@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chilts/namez/issues"
-  },
-  "homepage": "https://github.com/chilts/namez#readme"
+  "license": "ISC"
 }
