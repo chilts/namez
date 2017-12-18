@@ -1,0 +1,27 @@
+{
+  "name": "namez",
+  "version": "0.1.0",
+  "description": "A name generator, for projects, confirmation codes, or funsies!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chilts/namez.git"
+  },
+  "keywords": [
+    "random",
+    "name",
+    "project",
+    "name",
+    "code",
+    "name"
+  ],
+  "author": "Andrew Chilton <andychilton@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chilts/namez/issues"
+  },
+  "homepage": "https://github.com/chilts/namez#readme"
+}
