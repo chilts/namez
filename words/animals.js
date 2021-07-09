@@ -27,7 +27,6 @@ module.exports = [
   'arthropod',
   'artiodactyls',
   'asp',
-  'aye-aye',
   'baboon',
   'badger',
   'bandicoot',
